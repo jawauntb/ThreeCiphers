@@ -1,0 +1,224 @@
+﻿Meditations
+René Descartes
+Third Meditation
+Third Meditation:
+God
+[
+Before we move on, a translation matter should be confronted. It con-
+cerns the Latin adjectives
+clarus
+and
+distinctus
+the corresponding French adjectives
+clair
+and
+distinct
+and the corresponding English adjectives
+‘vivid’ and ‘clear’.
+Every other translator of this work into English has put
+‘clear’ and ‘distinct’
+and for a while the present translator in cowardly fashion followed suit.
+But the usual translation is simply wrong, and we ought to free ourselves
+from it. The crucial point concerns
+clarus
+(and everything said about that
+here is equally true of the French
+clair
+). The word can mean ‘clear’ in our
+sense, and when Descartes uses it
+outside
+the
+clarus et distinctus
+phrase,
+it seems usually to be in that sense. But
+in
+that phrase he uses
+clarus
+in its other meaning—its more common meaning in Latin—of ‘bright’ or
+‘vivid’ or the like, as in
+clara lux
+= ‘broad daylight’. If in the phrase
+clarus
+et distinctus
+Descartes meant
+clarus
+in its lesser meaning of ‘clear’, then
+what is there left for ‘distinctus’ to mean? Descartes doesn’t explain
+these terms here, but in his
+Principles of Philosophy
+1:45–6 he does
+so—in a manner that completely condemns the usual translation. He
+writes: ‘I call a perception
+claram
+when it is present and accessible to
+the attentive mind—just as we say that we see something
+clare
+when
+it is present to the eye’s gaze and stimulates it with a sufficient degree
+of strength and accessibility. I call a perception
+distinctam
+if, as well
+as being
+clara
+, it is so sharply separated from all other perceptions that
+every part of it is
+clarum
+.. . . . The example of pain shows that a perception
+can be
+clara
+without being
+distincta
+but not vice versa. When for example
+someone feels an intense pain, his perception of it is
+clarissima
+, but it
+isn’t always clear, because people often get this perception muddled with
+an obscure judgment they make about something that they think exists
+in the painful spot. . . .’ and so on. Of course he is not saying anything
+as stupid as that intense pain is always
+clear
+! His point is that pain is
+vivid, up-front, not shady or obscure. And for an idea to be
+distincta
+is
+for every nook and cranny of it to be vivid; which is not a bad way of
+saying that it is in our sense ‘clear’.
+]
+I will now shut my eyes, block my ears, cut off all my
+senses. I will regard all my mental images of bodily things
+as empty, false and worthless (if I could, I would clear them
+out of my mind altogether). I will get into conversation with
+myself, examine myself more deeply, and try in this way
+gradually to know myself more intimately. I am a thing
+that thinks, i.e that doubts, affirms, denies, understands
+some things, is ignorant of many others, wills, and refuses.
+This thing also imagines and has sensory perceptions; for,
+as I remarked before, even if the
+objects
+of my sensory
+experience and imagination don’t exist outside me, still
+sensory perception and imagination themselves, considered
+simply as
+mental
+events, certainly do occur in me.
+That lists everything that I truly know, or at least every-
+thing I have, up to now, discovered that I know. Now I will
+look more carefully to see whether I have overlooked other
+facts about myself.
+I am certain that I am a thinking thing
+.
+Doesn’t that tell me what it takes for me to be certain about
+anything? In this first item of knowledge there is simply
+a vivid and clear perception of what I am asserting; this
+wouldn’t be enough to make me certain of its truth if it could
+ever turn out that something that I perceived so vividly and
+clearly was false. So I now seem to be able to lay it down as a
+general rule that
+whatever I perceive very vividly and clearly
+is true
+.
+9
+Meditations
+René Descartes
+Third Meditation
+I previously accepted as perfectly certain and evident
+many things that I afterwards realized were doubtful—the
+earth, sky, stars, and everything else that I took in through
+the senses—but in those cases what I perceived clearly were
+merely the ideas or thoughts of those things that came into
+my mind; and I am still not denying that those ideas occur
+within me. But I used also to believe that my ideas came from
+things outside that resembled them in all respects. Indeed, I
+believed this for so long that I wrongly came to think that I
+perceived it clearly. In fact, it was false; or anyway if it was
+true it was not thanks to the strength of my perceptions.
+But what about when I was considering something simple
+and straightforward in arithmetic or geometry, for example
+that two plus three makes five? Didn’t I see these things
+clearly enough to accept them as true? Indeed, the only
+reason I could find for doubting them was this: Perhaps
+some God could have made me so as to be deceived even in
+those matters that seemed most obvious. Whenever I bring
+to mind my old belief in the supreme power of God, I have
+to admit that God could, if he wanted to, easily make me go
+wrong even about things that I think I see perfectly clearly.
+But when I turn my thought onto the things themselves—the
+ones I think I perceive clearly—I find them so convincing that
+I spontaneously exclaim: ‘Let him do his best to deceive me!
+He will never bring it about that I am nothing while I think I
+am something; or make it true in the future that I have never
+existed, given that I do now exist; or bring it about that two
+plus three make more or less than five, or anything else like
+this in which I see a plain contradiction.’ Also, since I have
+no evidence that there is a deceiving God, and don’t even
+know for sure that there is a God at all, the reason for doubt
+that depends purely on this supposition of a deceiving God
+is a very slight and theoretical one. However, I shall want to
+remove even this slight reason for doubt; so when I get the
+opportunity I shall examine whether there is a God, and (if
+there is) whether he can be a deceiver. If I don’t settle this, it
+seems, then I can never be
+quite
+certain about anything else.
+First, if I am to proceed in an orderly way I should classify
+my thoughts into definite kinds, and ask which kinds can
+properly be said to be true or false. Some of my thoughts are,
+so to speak, images or pictures of things—as when I think of
+a man, or a chimera, or the sky, or an angel, or God— and
+strictly speaking these are the only thoughts that should be
+called ‘ideas’. Other thoughts have more to them than that:
+for example when I will, or am afraid, or affirm, or deny, my
+thought represents some particular thing but it also includes
+something more than merely the likeness of that thing. Some
+thoughts in this category are called volitions or emotions,
+while others are called judgments.
+When ideas are considered solely in themselves and not
+taken to be connected to anything else, they can’t be false;
+for whether it is
+•
+a goat that I am imagining or
+•
+a chimera,
+either way it is true
+that I do imagine it
+. Nor is there falsity
+in the will or the emotions; for even if the things I want are
+wicked or non-existent, it is still true
+that I want them
+. All
+that is left—the only kind of thought where I must watch out
+for mistakes—are judgments. And the mistake they most
+commonly involve is to judge that my ideas resemble things
+outside me. Of course, if I considered the ideas themselves
+simply as aspects of my thought and not as connected to
+anything else, they could hardly lead me into any error.
+Among my ideas, some seem to be
+•
+innate, some to be
+•
+caused from the outside, and others to have been
+•
+invented
+by me. As I see it,
+•
+my understanding of what a
+thing
+is,
+what
+truth
+is, and what
+thought
+is, derives purely from my
+own nature,
+·
+which means that it is innate
+·
+;
+•
+my hearing a
+noise or seeing the sun or feeling the fire comes from things
+outside me; and
+•
+sirens, hippogriffs and the like are my own
+10
+
